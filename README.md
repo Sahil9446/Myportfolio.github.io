@@ -6,5 +6,5 @@
 - It is customizable easily for your future updation of your portfolio.
 - Working on to add dark theme and to make it more friendly.
 
-![preview img](/previewofportfolio.png)
+![preview img](/PortfolioPreview.png)
 
