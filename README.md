@@ -10,5 +10,5 @@ CHECK OUT THE PORTFOLIO BY CLICKING ON THE FOLLOWING LINK: https://sahil9446.git
 
 Here, the Preview Image of the portfolio:
 
-![preview img](/PreviewImage.png)
+![preview img](/PreviewImages.png)
 
