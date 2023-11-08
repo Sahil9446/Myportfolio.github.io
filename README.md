@@ -1,4 +1,4 @@
-CHECK OUT MY PORTFOLIO BY CLICKING ON THE FOLLOWING LINK: https://sahil9446.github.io/Myportfolio.github.io/
+CHECK OUT THE PORTFOLIO BY CLICKING ON THE FOLLOWING LINK: https://sahil9446.github.io/Myportfolio.github.io/
 
 - Responsive Portfolio Website made with HTML, CSS and JavaScript.
 - Contains animations while scrolling.
